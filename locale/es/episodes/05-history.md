@@ -62,7 +62,7 @@ index b36abfd..0848c8d 100644
 which is the same as what you would get if you leave out `HEAD` (try it).  The
 real goodness in all this is when you can refer to previous commits.  We do
 that by adding `~1`
-(where "\~" is "tilde", pronounced \[**til**-d_uh_])
+(where "\~" is "tilde", pronounced [**til**-d_uh_])
 to refer to the commit one before `HEAD`.
 
 ```bash
@@ -491,7 +491,7 @@ Venus is beautiful and full of love.
 Consider this command: `git diff HEAD~9 mars.txt`. What do you predict this command
 will do if you execute it? What happens when you do execute it? Why?
 
-Try another command, `git diff [ID] mars.txt`, where \[ID] is replaced with
+Try another command, `git diff [ID] mars.txt`, where [ID] is replaced with
 the unique identifier for your most recent commit. What do you think will happen,
 and what does happen?
 
