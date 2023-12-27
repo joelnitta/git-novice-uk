@@ -20,7 +20,7 @@ exercises: 0
 それではまず、どのようにしてバージョン管理システムが 「いつ」、「何」を、「誰」が編集したのかを記録・管理しているかを見ていきましょう。
 他の人と共同作業をしていなくても、 以下の状況に陥るより、自動的なバージョン管理を使うほうが大分良いはずです：
 
-![「高く、深く積み上げる」Jorge Cham 作、 https://www.phdcomics.com](fig/phd101212s.png){alt='Comic: a PhD student sends "FINAL.doc" to their supervisor, but after several increasingly intense and frustrating rounds of comments and revisions they end up with a file named "FINAL\_rev.22.comments49.corrections.10.#@$%WHYDIDCOMETOGRADSCHOOL????.doc"'}
+![「高く、深く積み上げる」Jorge Cham 作、 https://www.phdcomics.com](fig/phd101212s.png){alt='Comic: a PhD student sends "FINAL.doc" to their supervisor, but after several increasingly intense and frustrating rounds of comments and revisions they end up with a file named "FINAL_rev.22.comments49.corrections.10.#@$%WHYDIDCOMETOGRADSCHOOL????.doc"'}
 
 皆さんもこんな経験をされたことがあるはずです。複数の、（それもほとんど 内容が同じの）文書のコピーを保存しておくのは馬鹿げたことです。 文書作成ソフトの中には、例えばMicrosoft Wordの[変更履歴](https://support.office.com/en-us/article/Track-changes-in-Word-197ba630-0f5f-4a8e-9a77-3712475e806a)、Google Docsの[バージョン履歴](https://support.google.com/docs/answer/190843?hl=en)、LibreOfficeの[変更の記録・表示](https://help.libreoffice.org/Common/Recording_and_Displaying_Changes)、こういった状況にある程度うまく対応できるものもあります。
 
