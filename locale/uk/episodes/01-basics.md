@@ -17,8 +17,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-We'll start by exploring how version control can be used
-to keep track of what one person did and when.
+Ми почнемо з розгляду того, як контроль версій може бути використаний для відстеження того, що і коли зробив один користувач.
 Even if you aren't collaborating with other people,
 automated version control is much better than this situation:
 
